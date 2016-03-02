@@ -1,0 +1,11 @@
+Testes para Item 1 (Bar):
+
+--------------------------------------------
+EXEMPLO 1:
+
+Sexo: F
+Qte cervejas: 3
+Qte refri: 1
+Qte espetinhos: 2
+
+Resultado esperado:
